@@ -1,0 +1,6 @@
+[submodule "libs/prgb"]
+	path = libs/prgb
+	url = https://github.com/Willenborx/prgb
+[submodule "libs/prgb-pico"]
+	path = libs/prgb-pico
+	url = https://github.com/Willenborx/prgb-pico
