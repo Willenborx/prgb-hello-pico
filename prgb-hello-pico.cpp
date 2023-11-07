@@ -9,7 +9,7 @@
  * 
  */
 
-#include <TImeBasePico.hpp>
+#include <TimeBasePico.hpp>
 #include <W2812Array.hpp>
 #include <Geometry_2xBTF_WS2812B_8x32_ECO.hpp>
 #include <Coordinates.hpp>
